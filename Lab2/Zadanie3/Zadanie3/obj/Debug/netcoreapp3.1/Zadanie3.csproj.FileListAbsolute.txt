@@ -1,0 +1,13 @@
+D:\БГУИР\С#\Lab2\Zadanie3\Zadanie3\obj\Debug\netcoreapp3.1\Zadanie3.csprojAssemblyReference.cache
+D:\БГУИР\С#\Lab2\Zadanie3\Zadanie3\obj\Debug\netcoreapp3.1\Zadanie3.AssemblyInfoInputs.cache
+D:\БГУИР\С#\Lab2\Zadanie3\Zadanie3\obj\Debug\netcoreapp3.1\Zadanie3.AssemblyInfo.cs
+D:\БГУИР\С#\Lab2\Zadanie3\Zadanie3\obj\Debug\netcoreapp3.1\Zadanie3.csproj.CoreCompileInputs.cache
+D:\БГУИР\С#\Lab2\Zadanie3\Zadanie3\bin\Debug\netcoreapp3.1\Zadanie3.exe
+D:\БГУИР\С#\Lab2\Zadanie3\Zadanie3\bin\Debug\netcoreapp3.1\Zadanie3.deps.json
+D:\БГУИР\С#\Lab2\Zadanie3\Zadanie3\bin\Debug\netcoreapp3.1\Zadanie3.runtimeconfig.json
+D:\БГУИР\С#\Lab2\Zadanie3\Zadanie3\bin\Debug\netcoreapp3.1\Zadanie3.runtimeconfig.dev.json
+D:\БГУИР\С#\Lab2\Zadanie3\Zadanie3\bin\Debug\netcoreapp3.1\Zadanie3.dll
+D:\БГУИР\С#\Lab2\Zadanie3\Zadanie3\bin\Debug\netcoreapp3.1\Zadanie3.pdb
+D:\БГУИР\С#\Lab2\Zadanie3\Zadanie3\obj\Debug\netcoreapp3.1\Zadanie3.dll
+D:\БГУИР\С#\Lab2\Zadanie3\Zadanie3\obj\Debug\netcoreapp3.1\Zadanie3.pdb
+D:\БГУИР\С#\Lab2\Zadanie3\Zadanie3\obj\Debug\netcoreapp3.1\Zadanie3.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\БГУИР\С#\Lab2\Zadanie2\Zadanie2\obj\Debug\netcoreapp3.1\Zadanie2.AssemblyInfoInputs.cache
+D:\БГУИР\С#\Lab2\Zadanie2\Zadanie2\obj\Debug\netcoreapp3.1\Zadanie2.AssemblyInfo.cs
+D:\БГУИР\С#\Lab2\Zadanie2\Zadanie2\obj\Debug\netcoreapp3.1\Zadanie2.csproj.CoreCompileInputs.cache
+D:\БГУИР\С#\Lab2\Zadanie2\Zadanie2\bin\Debug\netcoreapp3.1\Zadanie2.exe
+D:\БГУИР\С#\Lab2\Zadanie2\Zadanie2\bin\Debug\netcoreapp3.1\Zadanie2.deps.json
+D:\БГУИР\С#\Lab2\Zadanie2\Zadanie2\bin\Debug\netcoreapp3.1\Zadanie2.runtimeconfig.json
+D:\БГУИР\С#\Lab2\Zadanie2\Zadanie2\bin\Debug\netcoreapp3.1\Zadanie2.runtimeconfig.dev.json
+D:\БГУИР\С#\Lab2\Zadanie2\Zadanie2\bin\Debug\netcoreapp3.1\Zadanie2.dll
+D:\БГУИР\С#\Lab2\Zadanie2\Zadanie2\bin\Debug\netcoreapp3.1\Zadanie2.pdb
+D:\БГУИР\С#\Lab2\Zadanie2\Zadanie2\obj\Debug\netcoreapp3.1\Zadanie2.dll
+D:\БГУИР\С#\Lab2\Zadanie2\Zadanie2\obj\Debug\netcoreapp3.1\Zadanie2.pdb
+D:\БГУИР\С#\Lab2\Zadanie2\Zadanie2\obj\Debug\netcoreapp3.1\Zadanie2.genruntimeconfig.cache
+D:\БГУИР\С#\Lab2\Zadanie2\Zadanie2\obj\Debug\netcoreapp3.1\Zadanie2.csprojAssemblyReference.cache
