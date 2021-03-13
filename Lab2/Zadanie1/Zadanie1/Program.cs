@@ -9,7 +9,10 @@ namespace Zadanie1
             string[] ArrayLine = EnteredLine.Split(' ');
             for (int i = ArrayLine.Length - 1; i >= 0 ; i--)
             {
-                Console.Write(ArrayLine[i] + " ");
+                if (ArrayLine[i] != "")
+                {
+                    Console.Write(ArrayLine[i] + " ");
+                } 
             }
         }
     }
